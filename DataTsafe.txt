@@ -1,0 +1,200 @@
+Abel Madrazo,Abe12814@uvg.edu.gt,34358120,Algebra Lineal,Fisica 2,Quimica 1,4,5,Estudio para Parcial/Corto,25,Ricardo Proano,Estefania Rueda
+Pedro Malave,Ped13555@uvg.edu.gt,51096310,Calculo 3,Programacion Orientada a Objetos,Taller de Assembler,4,12,Enforque Teorico,75,Paz Ariza,Julian Manco
+Ricardo Proano,Ric15088@uvg.edu.gt,38144904,Algebra Lineal,Calculo 3,Calculo 2,5,19,Estudio para Parcial/Corto,125,Carina Apostol,Cesar Cantero
+Rafael Posadas,Raf15216@uvg.edu.gt,33415883,Calculo 3,Calculo 1,Modelos Matematicos,2,6,Enfoque Practico,75,Matias Cobos,Pedro Malave
+Gabriel Deocampo,Gab14290@uvg.edu.gt,34165922,Calculo 1,Quimica 1,Calculo 3,1,11,Al Gusto del Estudiante,25,Juan Magallon,Emanuel Quinteros
+Javier Lozano,Jav15164@uvg.edu.gt,59999579,Calculo 2,Taller de Assembler,Programacion Orientada a Objetos,5,15,Al Gusto del Estudiante,75,Fatima Ortuno,Alejandro Navarra
+Manuel Lucas,Man13190@uvg.edu.gt,54570057,Algebra Lineal,Calculo 3,Fisica 1,1,20,Enfoque Practico,125,Maya Corea,Rory Williams
+Benito Deniz,Ben12636@uvg.edu.gt,46887687,Fisica 1,Calculo 1,Algebra Lineal,5,11,Enfoque Practico,50,Pablo Lovera,Yvonne Montana
+Estefania Rueda,Est13634@uvg.edu.gt,30496257,Calculo 2,Quimica 1,Programacion Orientada a Objetos,3,1,Enforque Teorico,50,Pedro Malave,Nazarena Bosquez
+Jesus Amaro,Jes14445@uvg.edu.gt,51122320,Quimica 1,Fisica 2,Taller de Assembler,3,12,Estudio para Parcial/Corto,25,Alex Sabino,Valeria Quirino
+Ines Burgo,Ine15731@uvg.edu.gt,35375944,Taller de Assembler,Programacion Orientada a Objetos,Fisica 1,2,16,Enfoque Practico,75,Gabriela Rada,David Fortun
+Carina Apostol,Car14432@uvg.edu.gt,51365941,Calculo 2,Quimica 1,Fisica 2,4,4,Enfoque Practico,75,Rene Walsh,Salvador Griego
+Felipa Sanches,Fel14349@uvg.edu.gt,45993656,Quimica 1,Taller de Assembler,Programacion Orientada a Objetos,3,16,Enforque Teorico,75,Fatima Barabas,Diana Bencomo
+Fatima Barabas,Fat15616@uvg.edu.gt,39536419,Fisica 2,Taller de Assembler,Calculo 2,5,4,Enforque Teorico,50,Carolina Montejo,Ramon Lantigua
+Esperanza Arellanes,Esp12741@uvg.edu.gt,40057532,Quimica 1,Fisica 2,Modelos Matematicos,2,7,Revision de Trabajos/Examenes,25,Alberto Salido,Esteban Mazariegos
+Nora Abril,Nor14308@uvg.edu.gt,44455044,Fisica 2,Taller de Assembler,Fisica 1,4,15,Estudio para Parcial/Corto,50,Felix Griego,Alberto Salido
+Consuela Calzada,Con13366@uvg.edu.gt,42146368,Modelos Matematicos,Calculo 2,Algebra Lineal,3,11,Enforque Teorico,50,Morita Sharaku,Rigoberto Marco
+Carolina Montejo,Car15122@uvg.edu.gt,33637321,Programacion Orientada a Objetos,Calculo 1,Algebra Lineal,3,16,Revision de Trabajos/Examenes,100,Manuel Modesto,Enrique Teran
+Gabriela Rada,Gab13382@uvg.edu.gt,34492803,Quimica 1,Fisica 1,Taller de Assembler,5,13,Revision de Trabajos/Examenes,25,Tazawa Kiyohisa,Eduardo Acosta
+Paz Ariza,Paz15493@uvg.edu.gt,53121106,Calculo 1,Algebra Lineal,Programacion Orientada a Objetos,4,8,Al Gusto del Estudiante,50,Yvonne Montana,Rigoberto Rangel
+Rafael Badillo,Raf13369@uvg.edu.gt,30192865,Fisica 1,Fisica 2,Modelos Matematicos,4,9,Enfoque Practico,100,Stefano Lazos,Fatima Barabas
+Eliseo Davalos,Eli14145@uvg.edu.gt,35359096,Taller de Assembler,Algebra Lineal,Quimica 1,4,8,Revision de Trabajos/Examenes,100,Rigoberto Marco,Rory Williams
+Eustacio Cuello,Eus14267@uvg.edu.gt,49634494,Calculo 2,Taller de Assembler,Fisica 1,5,15,Estudio para Parcial/Corto,100,Ramon Lantigua,Maria Medero
+Rafael Aguiniga,Raf15606@uvg.edu.gt,52220632,Modelos Matematicos,Algebra Lineal,Quimica 1,4,1,Estudio para Parcial/Corto,75,Juan Magallon,Marina Rabago
+Abel Campoverde,Abe12360@uvg.edu.gt,35468191,Modelos Matematicos,Calculo 2,Calculo 3,3,19,Enforque Teorico,25,Gustavo Moyano,Emanuel Atencio
+Rolando Busto,Rol14021@uvg.edu.gt,31859636,Algebra Lineal,Modelos Matematicos,Calculo 2,4,1,Enforque Teorico,25,Emanuel Quinteros,Lola Amescua
+Alejandro Navarra,Ale15487@uvg.edu.gt,45917239,Calculo 3,Quimica 1,Algebra Lineal,4,8,Revision de Trabajos/Examenes,50,Javier Lozano,Noe Corpuz
+Andres Canales,And12196@uvg.edu.gt,44174889,Quimica 1,Calculo 2,Fisica 1,4,9,Al Gusto del Estudiante,100,Manuel Prior,Angela Fernandez
+Alejandro Aguero,Ale13350@uvg.edu.gt,49040177,Calculo 3,Calculo 1,Quimica 1,3,13,Al Gusto del Estudiante,50,Alex Molina,Javier Lozano
+Ernesto Peraza,Ern14983@uvg.edu.gt,56529012,Fisica 2,Quimica 1,Calculo 2,5,5,Enfoque Practico,100,Ramon Lantigua,Elisa Bermudez
+Rubi Quintana,Rub12383@uvg.edu.gt,31504042,Modelos Matematicos,Fisica 1,Calculo 1,1,6,Al Gusto del Estudiante,75,Rory Williams,Jose Miers
+Alexa Lagos,Ale15393@uvg.edu.gt,40942385,Fisica 2,Quimica 1,Taller de Assembler,1,1,Estudio para Parcial/Corto,125,Fatima Ortuno,Arturo Leiva
+Fatima Alejandro,Fat14490@uvg.edu.gt,44840571,Calculo 3,Calculo 1,Taller de Assembler,5,7,Enfoque Practico,75,Yolanda Morena,Diego Vinson
+Jimena Neri,Jim15783@uvg.edu.gt,42345206,Fisica 2,Quimica 1,Calculo 1,3,5,Estudio para Parcial/Corto,25,Ana Millan,Abram Tobias
+Gloria Fuerte,Glo15494@uvg.edu.gt,31394961,Fisica 1,Modelos Matematicos,Fisica 2,3,13,Al Gusto del Estudiante,125,Mori Masazumi,Felipa Sanches
+Fernanda Vicente,Fer15462@uvg.edu.gt,33445864,Taller de Assembler,Calculo 1,Calculo 3,1,6,Enforque Teorico,75,Lia Suarez,Jesus Amaro
+Yvonne Montana,Yvo12119@uvg.edu.gt,50456963,Taller de Assembler,Quimica 1,Fisica 2,1,11,Enfoque Practico,125,Hugo Cabana,Valeria Quirino
+Angela Fernandez,Ang12549@uvg.edu.gt,40216421,Quimica 1,Algebra Lineal,Calculo 3,3,5,Enforque Teorico,75,Gabriela Rada,Nazarena Yero
+Soledad Degollado,Sol15303@uvg.edu.gt,42131577,Fisica 2,Calculo 3,Taller de Assembler,4,7,Enforque Teorico,100,Fatima Alejandro,Guadalupe Yepez
+Elisa Bermudez,Eli15190@uvg.edu.gt,58030987,Calculo 2,Calculo 1,Programacion Orientada a Objetos,5,16,Enfoque Practico,25,Abel Campoverde,Angel Revilla
+Mateo Ruvalcaba,Mat13385@uvg.edu.gt,48058797,Quimica 1,Algebra Lineal,Taller de Assembler,5,19,Revision de Trabajos/Examenes,50,Eliseo Davalos,Maya Corea
+Matias Cobos,Mat13502@uvg.edu.gt,30820614,Fisica 2,Calculo 3,Taller de Assembler,5,11,Estudio para Parcial/Corto,25,Tajima Bussho,Maria Medero
+Felix Vasconcellos,Fel13838@uvg.edu.gt,42871334,Modelos Matematicos,Fisica 1,Calculo 1,2,13,Enfoque Practico,25,Yvonne Montana,Tazawa Kiyohisa
+Roman Del Real,Rom14342@uvg.edu.gt,43874971,Calculo 3,Algebra Lineal,Modelos Matematicos,1,2,Enforque Teorico,100,Regina Bracero,Andres Herran
+Esteban Almazan,Est12788@uvg.edu.gt,33679000,Modelos Matematicos,Quimica 1,Fisica 2,1,20,Enfoque Practico,100,Guadalupe Yepez,Ricardo Reyes
+Jose Gonsalez,Jos15818@uvg.edu.gt,48348787,Quimica 1,Calculo 3,Fisica 1,5,5,Al Gusto del Estudiante,100,Rigoberto Rangel,Rubi Irene
+Alfonso Romano,Alf12579@uvg.edu.gt,38037529,Calculo 3,Fisica 2,Fisica 1,4,19,Al Gusto del Estudiante,50,Consuela Mula,Jesus Amaro
+Hugo Lindo,Hug14901@uvg.edu.gt,37951596,Calculo 2,Modelos Matematicos,Algebra Lineal,3,14,Estudio para Parcial/Corto,100,Rubi Quintana,Felix Vasconcellos
+Roberto Barreda,Rob13917@uvg.edu.gt,48443288,Fisica 1,Calculo 2,Modelos Matematicos,3,11,Estudio para Parcial/Corto,25,Elias Medina,Noe Corpuz
+Alejandro Cueva,Ale14677@uvg.edu.gt,48395106,Calculo 1,Calculo 2,Taller de Assembler,5,7,Revision de Trabajos/Examenes,125,Ruben Pomar,Guadalupe Yepez
+Nazarena Bosquez,Naz13200@uvg.edu.gt,46517273,Calculo 3,Calculo 1,Programacion Orientada a Objetos,1,1,Al Gusto del Estudiante,75,Eustacio Garza,Hugo Cabana
+Guadalupe Fortun,Gua15771@uvg.edu.gt,52367124,Programacion Orientada a Objetos,Quimica 1,Modelos Matematicos,3,4,Estudio para Parcial/Corto,50,Stefano Lazos,Veronica Cordero
+Miranda Yanez,Mir13374@uvg.edu.gt,30675593,Taller de Assembler,Calculo 2,Calculo 1,4,17,Al Gusto del Estudiante,25,Benito Deniz,Saul Varona
+Adriana Rendon,Adr14639@uvg.edu.gt,47322482,Calculo 2,Calculo 1,Programacion Orientada a Objetos,2,5,Enfoque Practico,50,Gabriela Rada,Javier Barrett
+Daniella Martin,Dan13980@uvg.edu.gt,47931044,Fisica 1,Algebra Lineal,Programacion Orientada a Objetos,5,15,Enforque Teorico,75,Alberto Salido,Emanuel Quinteros
+Ana Millan,Ana13737@uvg.edu.gt,50217196,Calculo 2,Fisica 1,Algebra Lineal,4,11,Enforque Teorico,100,Valeria Quirino,Alejandro Aguero
+Rubi Irene,Rub15151@uvg.edu.gt,45729044,Fisica 1,Quimica 1,Fisica 2,4,20,Estudio para Parcial/Corto,25,Alex Molina,Utada Naozane
+Perla Sardina,Per13996@uvg.edu.gt,46000253,Algebra Lineal,Calculo 2,Programacion Orientada a Objetos,5,10,Al Gusto del Estudiante,100,Akagi Kazushige,Rubi Quintana
+Veronica Cordero,Ver13474@uvg.edu.gt,42358935,Calculo 2,Taller de Assembler,Modelos Matematicos,2,3,Enforque Teorico,75,Gianni Mitchell,Ernesto Peraza
+Nazarena Yero,Naz15772@uvg.edu.gt,43871174,Calculo 3,Fisica 1,Quimica 1,4,14,Estudio para Parcial/Corto,125,Elisa Bermudez,Fatima Barabas
+Elias Montijo,Eli13366@uvg.edu.gt,40842642,Quimica 1,Modelos Matematicos,Calculo 2,5,4,Enfoque Practico,75,Alejandro Navarra,Perla Pardo
+Ramon Lantigua,Ram13818@uvg.edu.gt,55461428,Taller de Assembler,Fisica 2,Modelos Matematicos,1,12,Enforque Teorico,100,Cristina Morlan,Cesar Cantero
+Julian Juarez,Jul14537@uvg.edu.gt,44454357,Algebra Lineal,Calculo 3,Calculo 2,4,1,Revision de Trabajos/Examenes,100,Soledad Degollado,Ruben Gudino
+Marcos Matas,Mar14840@uvg.edu.gt,40653067,Taller de Assembler,Algebra Lineal,Calculo 1,1,15,Al Gusto del Estudiante,75,Perla Sardina,Luis Villarruel
+Raul Rolan,Rau12927@uvg.edu.gt,31800291,Fisica 1,Modelos Matematicos,Fisica 2,4,1,Enforque Teorico,100,Veronica Ventura,Rubi Quintana
+Adan Santiago,Ada12689@uvg.edu.gt,43543420,Calculo 3,Quimica 1,Fisica 2,5,3,Al Gusto del Estudiante,25,Miranda Yanez,Felix Vasconcellos
+Ezequiel Colmenares,Eze13069@uvg.edu.gt,34839193,Taller de Assembler,Modelos Matematicos,Calculo 2,3,10,Enfoque Practico,100,Elias Montijo,Alexis Nunez
+Julian Manco,Jul14905@uvg.edu.gt,43575214,Fisica 1,Calculo 2,Fisica 2,5,19,Enfoque Practico,25,Yahiro Katsuyuki,Alfonso Romano
+Rigoberto Rangel,Rig14731@uvg.edu.gt,58572916,Calculo 2,Programacion Orientada a Objetos,Calculo 1,5,13,Enfoque Practico,75,Elias Medina,Morgan Pearce
+Esteban Mazariegos,Est15573@uvg.edu.gt,33300404,Calculo 2,Calculo 1,Fisica 2,5,19,Estudio para Parcial/Corto,25,Regina Bracero,Emanuel Quinteros
+Angela Gordon,Ang12034@uvg.edu.gt,34962689,Algebra Lineal,Calculo 2,Quimica 1,4,9,Al Gusto del Estudiante,100,Perla Pardo,Alexa Lagos
+Marina Rabago,Mar13408@uvg.edu.gt,38323941,Modelos Matematicos,Taller de Assembler,Algebra Lineal,3,1,Revision de Trabajos/Examenes,100,Felix Griego,Veronica Cordero
+Sofia Otero,Sof12172@uvg.edu.gt,40266660,Calculo 1,Algebra Lineal,Calculo 3,3,20,Enforque Teorico,25,Javier Buenaventura,Ines Burgo
+Elena Tercero,Ele12390@uvg.edu.gt,53835431,Programacion Orientada a Objetos,Fisica 1,Quimica 1,4,2,Revision de Trabajos/Examenes,100,Carina Apostol,Abel Madrazo
+Angelina Contreras,Ang13375@uvg.edu.gt,57272357,Modelos Matematicos,Calculo 2,Algebra Lineal,1,8,Al Gusto del Estudiante,100,Jose Gonsalez,Lucia Pardo
+Mia Quezada,Mia14398@uvg.edu.gt,51248767,Modelos Matematicos,Calculo 3,Fisica 2,4,5,Estudio para Parcial/Corto,75,Marina Rabago,Elena Tercero
+Fatima Ortuno,Fat14737@uvg.edu.gt,57195161,Fisica 2,Calculo 3,Calculo 1,3,16,Al Gusto del Estudiante,75,Doria Zorrilla,Manuel Prior
+Elena Savala,Ele12300@uvg.edu.gt,47138472,Calculo 1,Quimica 1,Taller de Assembler,1,14,Enforque Teorico,125,Angelica Ferraz,Alexa Lagos
+Luisa Dieguez,Lui15983@uvg.edu.gt,47828164,Algebra Lineal,Fisica 1,Calculo 1,4,15,Revision de Trabajos/Examenes,100,Matias Cobos,Eliana Valentin
+Miriam Loyola,Mir14297@uvg.edu.gt,43080410,Algebra Lineal,Modelos Matematicos,Taller de Assembler,2,1,Enforque Teorico,50,Adan Santiago,Julian Juarez
+Hector Negro,Hec14338@uvg.edu.gt,46887980,Calculo 3,Calculo 1,Modelos Matematicos,5,13,Estudio para Parcial/Corto,25,Rigoberto Corbo,Elena Tercero
+Alan Estay,Ala12180@uvg.edu.gt,45070511,Fisica 2,Calculo 3,Calculo 2,5,1,Revision de Trabajos/Examenes,25,Ramon Lantigua,Maria Medel
+Saul Villarruel,Sau15557@uvg.edu.gt,46792631,Fisica 2,Programacion Orientada a Objetos,Modelos Matematicos,4,16,Enfoque Practico,100,Alfonso Alamillo,Fatima Ortuno
+Victor Salto,Vic12689@uvg.edu.gt,45881574,Programacion Orientada a Objetos,Fisica 1,Taller de Assembler,1,16,Estudio para Parcial/Corto,100,Hugo Lindo,Ricardo Moreno
+Ricardo Moreno,Ric14737@uvg.edu.gt,33017931,Fisica 2,Fisica 1,Algebra Lineal,2,18,Al Gusto del Estudiante,75,Ricardo Reyes,Clara Gavino
+Orlando San Roman,Orl14398@uvg.edu.gt,49241999,Programacion Orientada a Objetos,Fisica 1,Quimica 1,1,9,Al Gusto del Estudiante,125,Luisa Llorente,Ines Burgo
+Emanuel Quinteros,Ema14666@uvg.edu.gt,50201113,Programacion Orientada a Objetos,Calculo 1,Calculo 3,1,15,Al Gusto del Estudiante,50,Lucia Pardo,Valentina Bailen
+Pablo Lovera,Pab15955@uvg.edu.gt,55288424,Calculo 3,Calculo 1,Modelos Matematicos,4,3,Revision de Trabajos/Examenes,100,Luis Sergio,Rafael Aguiniga
+Efrain Victoria,Efr14771@uvg.edu.gt,35310057,Algebra Lineal,Quimica 1,Calculo 3,1,1,Al Gusto del Estudiante,50,Lucia Pardo,Fatima Barabas
+Ruben Gudino,Rub14197@uvg.edu.gt,45180207,Calculo 1,Taller de Assembler,Fisica 2,2,8,Estudio para Parcial/Corto,25,Ezequiel Colmenares,Maya Corea
+Clara Gavino,Cla12868@uvg.edu.gt,58074009,Calculo 2,Fisica 2,Quimica 1,3,20,Al Gusto del Estudiante,100,Luis Sergio,Javier Fuente
+Tatiana Luciano,Tat14220@uvg.edu.gt,50041703,Quimica 1,Calculo 3,Calculo 1,2,19,Enforque Teorico,100,Rigoberto Rangel,Magdalena Antonio
+Magdalena Antonio,Mag12172@uvg.edu.gt,41625833,Calculo 2,Modelos Matematicos,Calculo 3,1,19,Estudio para Parcial/Corto,25,Mori Masazumi,Noe Corpuz
+Doria Zorrilla,Dor14441@uvg.edu.gt,37362842,Fisica 1,Programacion Orientada a Objetos,Taller de Assembler,5,19,Enfoque Practico,100,Ernesto Labrada,Alex Molina
+Tatiana Calzadilla,Tat13155@uvg.edu.gt,55719476,Calculo 3,Calculo 2,Taller de Assembler,5,20,Al Gusto del Estudiante,125,Magdalena Antonio,Fatima Ortuno
+Valeria Roso,Val14905@uvg.edu.gt,34695832,Calculo 2,Fisica 1,Taller de Assembler,3,20,Estudio para Parcial/Corto,125,Esteban Almazan,Fatima Ortuno
+Diana Bencomo,Dia15651@uvg.edu.gt,50051288,Fisica 2,Modelos Matematicos,Calculo 2,5,7,Estudio para Parcial/Corto,50,Rafael Frontera,Yesenia Casagrande
+Lola Amescua,Lol14003@uvg.edu.gt,36085429,Calculo 2,Programacion Orientada a Objetos,Calculo 3,4,6,Enforque Teorico,75,Maria Medero,Benito Deniz
+Olivia Fregoso,Oli12948@uvg.edu.gt,35711726,Fisica 2,Programacion Orientada a Objetos,Calculo 2,5,11,Enfoque Practico,100,Valeria Roso,Orlando San Roman
+Maria Medel,Mar12862@uvg.edu.gt,44995834,Calculo 2,Modelos Matematicos,Fisica 2,5,6,Enfoque Practico,125,Kashiwagi Masafumi,Alexis Nunez
+Orlando Yniguez,Orl14456@uvg.edu.gt,45626190,Algebra Lineal,Modelos Matematicos,Taller de Assembler,3,14,Revision de Trabajos/Examenes,25,Luisa Dieguez,Angela Gordon
+Luis Sergio,Lui13856@uvg.edu.gt,53524454,Calculo 3,Calculo 1,Fisica 2,4,6,Enforque Teorico,100,Ernesto Labrada,Regina Bracero
+Alex Molina,Ale15572@uvg.edu.gt,49568856,Modelos Matematicos,Calculo 3,Algebra Lineal,1,16,Enfoque Practico,100,Ruben Gudino,Armando Caro
+Arturo Leiva,Art12794@uvg.edu.gt,55127300,Algebra Lineal,Programacion Orientada a Objetos,Taller de Assembler,5,18,Al Gusto del Estudiante,50,Hector Negro,Alfonso Romano
+Rigoberto Corbo,Rig14218@uvg.edu.gt,45980339,Programacion Orientada a Objetos,Taller de Assembler,Algebra Lineal,2,9,Revision de Trabajos/Examenes,25,Jimena Neri,Morgan Pearce
+Cesar Francia,Ces14015@uvg.edu.gt,41322647,Calculo 2,Calculo 1,Taller de Assembler,5,2,Revision de Trabajos/Examenes,100,Gabriel Deocampo,Javier Lozano
+Cesar Cantero,Ces12104@uvg.edu.gt,47440171,Taller de Assembler,Programacion Orientada a Objetos,Fisica 1,2,18,Enforque Teorico,75,Eustacio Garza,Felix Vasconcellos
+Eustacio Garza,Eus13035@uvg.edu.gt,50750248,Calculo 1,Fisica 2,Taller de Assembler,4,17,Estudio para Parcial/Corto,25,Eliseo Davalos,Yesenia Casagrande
+Elias Morro,Eli12542@uvg.edu.gt,57068951,Quimica 1,Programacion Orientada a Objetos,Taller de Assembler,2,4,Al Gusto del Estudiante,50,Rene Walsh,Eustacio Garza
+Lorenzo Febles,Lor15227@uvg.edu.gt,47352723,Calculo 1,Calculo 2,Modelos Matematicos,2,9,Enforque Teorico,25,Marina Conrado,Alex Molina
+Lucia Pardo,Luc15024@uvg.edu.gt,54276173,Quimica 1,Algebra Lineal,Fisica 2,4,19,Enforque Teorico,50,Elias Morro,Rory Williams
+Yolanda Morena,Yol14895@uvg.edu.gt,34552695,Modelos Matematicos,Quimica 1,Calculo 3,4,4,Enfoque Practico,50,Roman Del Real,Eduardo Acosta
+Consuela Mula,Con12909@uvg.edu.gt,45487624,Fisica 1,Programacion Orientada a Objetos,Taller de Assembler,4,15,Al Gusto del Estudiante,50,Amanda Ribas,Rigoberto Corbo
+Lia Suarez,Lia14981@uvg.edu.gt,35292114,Algebra Lineal,Programacion Orientada a Objetos,Calculo 2,2,18,Revision de Trabajos/Examenes,50,Angel Revilla,Rolando Busto
+Angelica Ferraz,Ang14634@uvg.edu.gt,51566880,Calculo 3,Calculo 2,Programacion Orientada a Objetos,4,3,Enforque Teorico,125,Eustacio Cuello,Stefano Lazos
+Veronica Ventura,Ver13940@uvg.edu.gt,55480443,Programacion Orientada a Objetos,Calculo 2,Modelos Matematicos,4,13,Enforque Teorico,50,Jimena Neri,Lucia Pardo
+Amanda Ribas,Ama12068@uvg.edu.gt,52941211,Quimica 1,Modelos Matematicos,Fisica 1,5,14,Estudio para Parcial/Corto,125,Luisa Llorente,Marina Conrado
+Regina Bracero,Reg15819@uvg.edu.gt,46119572,Calculo 1,Programacion Orientada a Objetos,Algebra Lineal,3,2,Enforque Teorico,25,Pablo Lovera,Elisa Bermudez
+Cristina Morlan,Cri13751@uvg.edu.gt,47916850,Fisica 2,Calculo 3,Calculo 2,4,9,Al Gusto del Estudiante,125,Salvador Griego,Fatima Ortuno
+Maya Corea,May15249@uvg.edu.gt,42055633,Calculo 2,Algebra Lineal,Programacion Orientada a Objetos,4,13,Al Gusto del Estudiante,75,Felix Griego,Rory Williams
+Emanuel Atencio,Ema15949@uvg.edu.gt,58603542,Fisica 1,Quimica 1,Calculo 1,3,5,Al Gusto del Estudiante,75,Victoria Forero,Victor Salto
+Andres Preciado,And15884@uvg.edu.gt,50065618,Modelos Matematicos,Fisica 2,Quimica 1,3,8,Al Gusto del Estudiante,125,Marcos Matas,Angela Gordon
+Salvador Griego,Sal14240@uvg.edu.gt,34331938,Taller de Assembler,Modelos Matematicos,Fisica 2,4,13,Al Gusto del Estudiante,50,Gloria Fuerte,Carolina Montejo
+Abram Tobias,Abr15130@uvg.edu.gt,44827624,Programacion Orientada a Objetos,Quimica 1,Calculo 2,5,19,Enfoque Practico,100,Olivia Fregoso,Gabriela Rada
+Javier Fuente,Jav15020@uvg.edu.gt,50855909,Fisica 2,Calculo 1,Fisica 1,3,9,Enfoque Practico,25,Alfonso Romano,Salvador Griego
+Alan Pacifico,Ala12446@uvg.edu.gt,53884672,Fisica 2,Programacion Orientada a Objetos,Modelos Matematicos,5,13,Estudio para Parcial/Corto,100,Elias Medina,Alfonso Romano
+Ernesto Labrada,Ern13583@uvg.edu.gt,43889612,Calculo 3,Calculo 1,Fisica 2,3,17,Estudio para Parcial/Corto,50,Ricardo Proano,Alan Estay
+Enrique Teran,Enr15838@uvg.edu.gt,44023545,Modelos Matematicos,Algebra Lineal,Calculo 2,5,4,Revision de Trabajos/Examenes,50,Nicholas Carter,Tajima Bussho
+Ricardo Reyes,Ric13419@uvg.edu.gt,40180014,Programacion Orientada a Objetos,Calculo 1,Algebra Lineal,1,10,Revision de Trabajos/Examenes,75,Yahiro Katsuyuki,Felipa Sanches
+Alfonso Alamillo,Alf12634@uvg.edu.gt,42313111,Algebra Lineal,Calculo 2,Taller de Assembler,5,11,Enforque Teorico,50,Paz Ariza,Rafael Badillo
+Jack Cooper,Jac14347@uvg.edu.gt,51052152,Calculo 2,Calculo 3,Calculo 1,4,10,Revision de Trabajos/Examenes,50,Esteban Mazariegos,Gianni Mitchell
+Morgan Pearce,Mor13776@uvg.edu.gt,41970007,Fisica 1,Algebra Lineal,Calculo 3,4,3,Revision de Trabajos/Examenes,25,Elena Savala,Carina Apostol
+Kai Armstrong,Kai13452@uvg.edu.gt,42239803,Taller de Assembler,Calculo 1,Modelos Matematicos,3,12,Al Gusto del Estudiante,25,Julian Manco,Ricardo Reyes
+Rory Williams,Ror15541@uvg.edu.gt,44002842,Algebra Lineal,Fisica 2,Fisica 1,5,18,Enforque Teorico,50,Tajima Bussho,Benito Deniz
+Nicholas Carter,Nic14765@uvg.edu.gt,35293351,Fisica 1,Quimica 1,Taller de Assembler,2,15,Revision de Trabajos/Examenes,50,Carolina Montejo,Perla Sardina
+Diego Vinson,Die13314@uvg.edu.gt,48794691,Quimica 1,Fisica 1,Algebra Lineal,4,7,Al Gusto del Estudiante,100,Tajima Bussho,Victor Izquierdo
+Gianni Mitchell,Gia15847@uvg.edu.gt,47483940,Programacion Orientada a Objetos,Fisica 1,Calculo 2,2,8,Estudio para Parcial/Corto,125,Valeria Roso,Arturo Leiva
+Javier Barrett,Jav14120@uvg.edu.gt,59854836,Calculo 2,Calculo 1,Calculo 3,2,1,Al Gusto del Estudiante,125,Alejandro Cueva,Julian Juarez
+Clay Valentine,Cla14418@uvg.edu.gt,48254705,Quimica 1,Calculo 3,Calculo 2,1,13,Enforque Teorico,25,Lia Suarez,Tazawa Kiyohisa
+Rene Walsh,Ren15883@uvg.edu.gt,43071346,Calculo 3,Fisica 2,Calculo 2,5,13,Estudio para Parcial/Corto,25,Rubi Quintana,Elena Savala
+Alberto Salido,Alb13933@uvg.edu.gt,57915198,Calculo 1,Modelos Matematicos,Algebra Lineal,2,10,Enforque Teorico,25,Benito Deniz,Magdalena Antonio
+Jose Miers,Jos12806@uvg.edu.gt,54370179,Quimica 1,Taller de Assembler,Modelos Matematicos,5,18,Al Gusto del Estudiante,50,Gabriela Rada,Efrain Victoria
+Manuel Prior,Man13504@uvg.edu.gt,57831585,Calculo 2,Fisica 2,Modelos Matematicos,4,9,Estudio para Parcial/Corto,100,Tatiana Calzadilla,Rene Calleros
+Rafael Frontera,Raf14376@uvg.edu.gt,50742049,Quimica 1,Fisica 2,Calculo 3,2,20,Enfoque Practico,25,Morita Sharaku,Noe Corpuz
+Gerardo Livas,Ger12311@uvg.edu.gt,41333506,Calculo 1,Fisica 1,Programacion Orientada a Objetos,1,18,Enforque Teorico,75,Felipe Bustamante,Daniella Lobato
+Diego Maximo,Die14658@uvg.edu.gt,30975178,Fisica 1,Calculo 2,Calculo 1,1,7,Enforque Teorico,75,Ernesto Peraza,Consuela Lagunas
+Andres Canales,And13368@uvg.edu.gt,41284402,Algebra Lineal,Calculo 2,Calculo 1,1,14,Enforque Teorico,75,Guadalupe Fortun,Valeria Quirino
+Felix Griego,Fel13318@uvg.edu.gt,55077839,Calculo 2,Modelos Matematicos,Fisica 1,4,5,Enforque Teorico,100,Regina Bracero,Valeria Quirino
+Eduardo Acosta,Edu12689@uvg.edu.gt,35493976,Fisica 1,Calculo 2,Calculo 1,2,18,Al Gusto del Estudiante,125,Gerardo Livas,Ernesto Labrada
+Angel Revilla,Ang12946@uvg.edu.gt,34991204,Algebra Lineal,Calculo 1,Programacion Orientada a Objetos,4,19,Enfoque Practico,75,Mateo Ruvalcaba,Rubi Irene
+Luisa Llorente,Lui13118@uvg.edu.gt,49351690,Calculo 2,Fisica 1,Quimica 1,4,17,Enfoque Practico,125,Gerardo Livas,Ricardo Reyes
+Valentina Bailen,Val13799@uvg.edu.gt,43052846,Programacion Orientada a Objetos,Calculo 1,Modelos Matematicos,3,20,Revision de Trabajos/Examenes,125,Yesenia Casagrande,Pedro Malave
+Paz Del Castillo,Paz12103@uvg.edu.gt,36531344,Quimica 1,Algebra Lineal,Modelos Matematicos,4,11,Enforque Teorico,50,Carolina Montejo,Alan Pacifico
+Selena Cosio,Sel12710@uvg.edu.gt,50723793,Calculo 2,Calculo 1,Modelos Matematicos,1,5,Enfoque Practico,75,Hugo Lindo,Estefania Rueda
+Consuela Lagunas,Con13857@uvg.edu.gt,42765076,Calculo 3,Calculo 2,Algebra Lineal,1,19,Al Gusto del Estudiante,125,Lola Amescua,Alex Sabino
+Valeria Quirino,Val15263@uvg.edu.gt,40240940,Calculo 3,Fisica 1,Quimica 1,1,4,Revision de Trabajos/Examenes,50,Victoria Forero,Ramon Lantigua
+Virginia Esquilin,Vir14057@uvg.edu.gt,33965617,Taller de Assembler,Calculo 1,Fisica 1,1,6,Enforque Teorico,50,Rolando Busto,Morita Sharaku
+Giuliana Frontera,Giu13366@uvg.edu.gt,40256907,Algebra Lineal,Fisica 2,Calculo 3,5,6,Revision de Trabajos/Examenes,100,Yahiro Katsuyuki,Rigoberto Corbo
+Brisa Beltre,Bri13953@uvg.edu.gt,58471284,Programacion Orientada a Objetos,Calculo 1,Quimica 1,4,12,Enfoque Practico,125,Maya Corea,Marina Rabago
+Perla Pardo,Per13660@uvg.edu.gt,53958168,Modelos Matematicos,Fisica 1,Programacion Orientada a Objetos,4,12,Estudio para Parcial/Corto,50,Doria Zorrilla,Tazawa Kiyohisa
+Victoria Forero,Vic12722@uvg.edu.gt,41130412,Calculo 1,Quimica 1,Taller de Assembler,2,11,Estudio para Parcial/Corto,50,Lola Amescua,Salvador Griego
+Yesenia Casagrande,Yes14330@uvg.edu.gt,40408536,Taller de Assembler,Quimica 1,Algebra Lineal,4,10,Enfoque Practico,50,Fatima Alejandro,Utada Naozane
+Daniella Lobato,Dan12336@uvg.edu.gt,52902851,Fisica 2,Calculo 1,Quimica 1,2,16,Enforque Teorico,25,Carina Apostol,Doria Zorrilla
+Guadalupe Yepez,Gua13458@uvg.edu.gt,43927732,Modelos Matematicos,Fisica 2,Quimica 1,3,16,Estudio para Parcial/Corto,100,Adriana Rendon,Luisa Dieguez
+Marina Conrado,Mar14249@uvg.edu.gt,30877059,Calculo 3,Calculo 1,Taller de Assembler,5,8,Enfoque Practico,100,Yesenia Casagrande,Julian Juarez
+Octavia Lalama,Oct14013@uvg.edu.gt,34602598,Calculo 1,Calculo 2,Fisica 1,2,17,Revision de Trabajos/Examenes,125,Andres Canales,Fernanda Vicente
+Rene Calleros,Ren13258@uvg.edu.gt,49400086,Modelos Matematicos,Fisica 2,Fisica 1,2,13,Revision de Trabajos/Examenes,25,Armando Caro,Consuela Mula
+Noe Corpuz,Noe14578@uvg.edu.gt,51433265,Calculo 2,Calculo 3,Algebra Lineal,5,12,Al Gusto del Estudiante,25,Soledad Degollado,Rafael Posadas
+Eliana Valentin,Eli15598@uvg.edu.gt,42269026,Programacion Orientada a Objetos,Quimica 1,Fisica 1,1,9,Al Gusto del Estudiante,100,Veronica Ventura,Angelina Contreras
+Maria Medero,Mar15373@uvg.edu.gt,50698545,Modelos Matematicos,Calculo 3,Taller de Assembler,5,20,Al Gusto del Estudiante,50,Kashiwagi Masafumi,Javier Lozano
+Guillermo Rosado,Gui14407@uvg.edu.gt,31226301,Calculo 2,Modelos Matematicos,Quimica 1,2,18,Al Gusto del Estudiante,50,Morgan Pearce,Alejandro Cueva
+Saul Varona,Sau14884@uvg.edu.gt,32207144,Calculo 3,Calculo 1,Fisica 1,2,17,Enfoque Practico,75,Guadalupe Yepez,Jesus Amaro
+Gustavo Moyano,Gus15195@uvg.edu.gt,36757905,Taller de Assembler,Calculo 2,Calculo 1,5,17,Al Gusto del Estudiante,75,Victoria Forero,Nazarena Yero
+Alex Sabino,Ale12643@uvg.edu.gt,41368660,Programacion Orientada a Objetos,Calculo 1,Calculo 3,2,6,Al Gusto del Estudiante,75,Angel Revilla,Nora Abril
+David Fortun,Dav13317@uvg.edu.gt,39978911,Calculo 1,Calculo 2,Taller de Assembler,4,13,Enfoque Practico,50,Marcos Matas,Javier Buenaventura
+Elias Medina,Eli15904@uvg.edu.gt,53205658,Taller de Assembler,Modelos Matematicos,Programacion Orientada a Objetos,3,10,Revision de Trabajos/Examenes,125,Emanuel Quinteros,Lia Suarez
+Martin Giraldo,Mar14065@uvg.edu.gt,57176509,Fisica 2,Calculo 1,Fisica 1,5,17,Enforque Teorico,125,Angela Fernandez,Ana Millan
+Victor Izquierdo,Vic15339@uvg.edu.gt,42353624,Quimica 1,Calculo 1,Fisica 1,1,1,Estudio para Parcial/Corto,75,Ruben Gudino,Marcos Matas
+Manuel Modesto,Man13348@uvg.edu.gt,31977975,Taller de Assembler,Programacion Orientada a Objetos,Fisica 2,5,15,Al Gusto del Estudiante,100,Marcos Matas,Jose Miers
+Juan Magallon,Jua13009@uvg.edu.gt,59102873,Calculo 3,Taller de Assembler,Quimica 1,2,6,Enforque Teorico,100,Maria Medel,Alexa Lagos
+Luis Villarruel,Lui13390@uvg.edu.gt,45374030,Fisica 2,Fisica 1,Calculo 1,5,20,Al Gusto del Estudiante,125,Morita Sharaku,Eustacio Cuello
+Andres Herran,And13464@uvg.edu.gt,44715925,Calculo 3,Programacion Orientada a Objetos,Fisica 2,5,12,Enforque Teorico,125,Fatima Barabas,Diana Bencomo
+Alexis Nunez,Ale15006@uvg.edu.gt,37173132,Fisica 2,Calculo 1,Quimica 1,1,2,Revision de Trabajos/Examenes,100,Javier Buenaventura,Stefano Lazos
+Hugo Cabana,Hug14587@uvg.edu.gt,52623189,Fisica 2,Fisica 1,Calculo 1,2,18,Enfoque Practico,25,Orlando San Roman,Matias Cobos
+Felipe Bustamante,Fel12774@uvg.edu.gt,57196476,Quimica 1,Calculo 1,Taller de Assembler,3,3,Estudio para Parcial/Corto,75,Ramon Lantigua,Abram Tobias
+Javier Buenaventura,Jav13664@uvg.edu.gt,35581923,Fisica 2,Algebra Lineal,Calculo 2,1,14,Al Gusto del Estudiante,125,Tajima Bussho,Rubi Irene
+Rigoberto Marco,Rig13550@uvg.edu.gt,30944833,Programacion Orientada a Objetos,Quimica 1,Taller de Assembler,5,20,Estudio para Parcial/Corto,125,Marcos Matas,Guadalupe Yepez
+Ruben Pomar,Rub12579@uvg.edu.gt,31549285,Fisica 2,Fisica 1,Calculo 3,3,16,Enfoque Practico,125,Guadalupe Fortun,Maya Corea
+Stefano Lazos,Ste13167@uvg.edu.gt,34540913,Calculo 1,Calculo 3,Modelos Matematicos,2,14,Estudio para Parcial/Corto,50,Emanuel Atencio,Marina Rabago
+Armando Caro,Arm15799@uvg.edu.gt,32549215,Programacion Orientada a Objetos,Taller de Assembler,Fisica 1,2,16,Al Gusto del Estudiante,100,Esperanza Arellanes,Sofia Otero
+Yahiro Katsuyuki,Yah13364@uvg.edu.gt,37918633,Modelos Matematicos,Taller de Assembler,Calculo 2,5,7,Enforque Teorico,100,Morgan Pearce,Jimena Neri
+Morita Sharaku,Mor13369@uvg.edu.gt,47299950,Calculo 1,Calculo 2,Algebra Lineal,4,6,Al Gusto del Estudiante,25,Rene Walsh,Emanuel Atencio
+Utada Naozane,Uta14611@uvg.edu.gt,48859888,Algebra Lineal,Taller de Assembler,Calculo 1,2,8,Al Gusto del Estudiante,100,Adan Santiago,Felipe Bustamante
+Kashiwagi Masafumi,Kas15727@uvg.edu.gt,57944206,Taller de Assembler,Fisica 2,Calculo 3,3,6,Revision de Trabajos/Examenes,100,Ricardo Proano,Ruben Pomar
+Mori Masazumi,Mor13014@uvg.edu.gt,49924519,Modelos Matematicos,Quimica 1,Taller de Assembler,4,15,Enfoque Practico,100,Rafael Aguiniga,Javier Lozano
+Kugo Mitsukuni,Kug14836@uvg.edu.gt,36313554,Quimica 1,Calculo 1,Modelos Matematicos,2,3,Estudio para Parcial/Corto,50,Guadalupe Fortun,Ines Burgo
+Tazawa Kiyohisa,Taz12188@uvg.edu.gt,52094125,Calculo 3,Quimica 1,Modelos Matematicos,2,16,Enfoque Practico,125,Estefania Rueda,Felix Vasconcellos
+Tajima Bussho,Taj14683@uvg.edu.gt,59678469,Programacion Orientada a Objetos,Algebra Lineal,Fisica 2,5,20,Enforque Teorico,125,Alexis Nunez,Selena Cosio
+Akagi Kazushige,Aka12105@uvg.edu.gt,40306617,Programacion Orientada a Objetos,Quimica 1,Fisica 1,2,1,Enforque Teorico,50,Felix Vasconcellos,Tatiana Luciano
+Inouye Naonobu,Ino13105@uvg.edu.gt,46006344,Quimica 1,Calculo 1,Programacion Orientada a Objetos,5,1,Enforque Teorico,125,Alfonso Romano,Jesus Amaro
